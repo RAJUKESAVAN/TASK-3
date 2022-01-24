@@ -1,0 +1,2 @@
+screen or just screen is a small information object about physical screen dimensions. 
+window document or just document is the main object of the potentially visible (or better yet: rendered) document object model/DOM.

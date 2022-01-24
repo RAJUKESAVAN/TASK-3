@@ -1,0 +1,8 @@
+let raju = {
+    name: "Raju",
+    email: "rajuboy123@gamil.com",
+    mobile: "89937938",
+    linkedin: "rajulinkedin12",
+    qulification: "DME"
+}
+console.log(raju);
